@@ -48,16 +48,16 @@ link-here)
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
-[YOUR ANSWER HERE]
+[yes i saw some css and html commands to learn from https://www.w3schools.com]
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
-[YOUR ANSWER HERE]
+[I encountered challenge when I was doing css page where I had to  put font-family. I coud not change it properly. i also encountered challenege in understanding some concepts of java script where i knew how to implement functions but I got confused when it came to guess function. it was easy to understand through the structure which was given in the prework instruction but when it comes to implement algorithm it got confused in few steps. ]
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
-[YOUR ANSWER HERE]
+[I would like to know about more in web development. how can we launch an app on any platform  after making it by using html, css, java script ? how can we use secuirity things on any website after making it, like for credit card informations, and personal informations? so that no one can access and get the user information from website?
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
-[YOUR ANSWER HERE]
+[If I had few more hours to work on this project or if I had more time to spend, I would like to add some features like random play clue after one  pattern or I wanted to add tick tok sound for specific interval like where user have to guess the pattern in specific time limit. I also wanted to add random pattern when I won or lose the game. I wanted to add more button with random pattern guess which makes game more complicated.  ]
 
 
 
@@ -68,7 +68,7 @@ link-here)
 
 ## License
 
-    Copyright [YOUR NAME]
+    Copyright [Chetanya Sharma]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
