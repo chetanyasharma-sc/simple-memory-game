@@ -4,7 +4,7 @@
 
 Submitted by: **Chetanya Sharma**
 
-Time spent: **11** hours spent in total
+Time spent: **13** hours spent in total
 
 Link to project: (https://glitch.com/edit/#!/coal-fringe-clam?path=index.html%3A1%3A0)
 
@@ -62,7 +62,7 @@ link-here)
 
 
 ## Interview Recording URL Link
-
+This is the video.
 [My 5-minute Interview Recording](https://vimeo.com/694587626)
 
 
